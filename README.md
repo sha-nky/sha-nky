@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="hello-hi.gif" />
+<img align="right" height="150" src="hello-hi.gif" alt="gif" />
 
 ###
 
