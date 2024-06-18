@@ -13,7 +13,7 @@
 
 ### - I'm a 20 years old aspiring web developer from India.
 
-<img height="250px" width="400px" alt="GIF" align="right" src="./assets/senku-dr-stone.gif">
+<img height="250px" width="450px" alt="GIF" align="right" src="./assets/senku-dr-stone.gif">
 
 ### - Learning :
 - ✨ Full stack development
@@ -36,19 +36,19 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p align="center">
-  <img src="./assets/icons/python.png" alt="python">
-  <img src="./assets/icons/html.png" alt="html" >
-  <img src="./assets/icons/css.png" alt="css3">
-  <img src="./assets/icons/js.png" alt="JS">
+  <img src="./assets/icons/python.png" alt="python" height="20" width="20">
+  <img src="./assets/icons/html.png" alt="html" height="20" width="20">
+  <img src="./assets/icons/css.png" alt="css" height="20" width="20">
+  <img src="./assets/icons/js.png" alt="js" height="20" width="20">
   </br>
-  <img src="./assets/icons/npm.png" alt="npm">
-  <img src="./assets/icons/react.png" alt="react">
-  <img src="./assets/icons/sass.png" alt="sass">
+  <img src="./assets/icons/npm.png" alt="npm" height="20" width="20">
+  <img src="./assets/icons/react.png" alt="react" height="20" width="20">
+  <img src="./assets/icons/sass.png" alt="sass" height="20" width="20">
   </br>
-  <img src="./assets/icons/vsc.png" alt="vsc">
-  <img src="./assets/icons/tailwind.png" alt="web">
+  <img src="./assets/icons/vsc.png" alt="vsc" height="20" width="20">
+  <img src="./assets/icons/tailwind.png" alt="tailwind" height="20" width="20">
   </br>
-  <img src="./assets/icons/codewars.png" alt="codewars">
+  <img src="./assets/icons/codewars.png" alt="codewars" height="20" width="20">
 </p>
 </br>
 </br>
