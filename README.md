@@ -64,32 +64,33 @@
 # Contact Me
 
 <div>
-  <p align="left">
-    If you'd like to get in touch with me for any reason—whether it's to ask a question, discuss something, or just hang out and chat—feel free to reach out! 😊
-  </p>
+  <div style="float: left; width: 50%;">
+    <p align="left">
+      If you'd like to get in touch with me for any reason—whether it's to ask a question, discuss something, or just hang out and chat—feel free to reach out! 😊
+    </p>
+    <div align="left">
+      <a href="mailto:shashanksharma03.07@gmail.com">
+        <img align="left" alt="gmail" src="./assets/icons/gmail.png" height="85" width="80" />
+      </a>
+      <a href="https://www.linkedin.com/in/shashank-sharma-733ba126b/">
+        <img align="left" alt="linkedin" src="./assets/icons/linkedin.png" height="75" width="80" />
+      </a>
+      <a href="https://www.reddit.com/user/Cool-Adhesiveness-07/">
+        <img align="left" alt="reddit" src="./assets/icons/reddit.png" height="80" width="80" />
+      </a>
+      <a href="https://www.instagram.com/sha_nky07/">
+        <img align="left" alt="instagram" src="./assets/icons/instagram.png" height="80" width="80" />
+      </a>
+    </div>
+  </div>
 
-  <div align="left">
-    <a href="mailto:shashanksharma03.07@gmail.com">
-      <img align="left" alt="gmail" src="./assets/icons/gmail.png" height="85" width="80" />
-    </a>
-
-    <a href="https://www.linkedin.com/in/shashank-sharma-733ba126b/">
-      <img align="left" alt="linkedin" src="./assets/icons/linkedin.png" height="75" width="80" />
-    </a>
-
-    <a href="https://www.reddit.com/user/Cool-Adhesiveness-07/">
-      <img align="left" alt="reddit" src="./assets/icons/reddit.png" height="80" width="80" />
-    </a>
-
-    <a href="https://www.instagram.com/sha_nky07/">
-      <img align="left" alt="instagram" src="./assets/icons/instagram.png" height="80" width="80" />
-    </a>
+  <div style="float: right; width: 50%;">
+    <img height="250px" width="430px" align="right" alt="GIF" src="./assets/fbi-kana.gif">
   </div>
 </div>
 
-<div>
-  <img height="250px" width="430px" align="right" alt="GIF" src="./assets/fbi-kana.gif">
-</div>
+<div style="clear: both;"></div>
+
  
 
 </br>
