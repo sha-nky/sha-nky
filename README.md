@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm a 20 years old aspiring web developer from India.
+### - I'm a 20 years old engineering student from India.
 
 <img height="250px" width="450px" alt="GIF" align="right" src="./assets/senku-dr-stone.gif">
 
@@ -20,10 +20,11 @@
 - ✨ Data structure and algorithms
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ 🌐 Geopolitics: Stay updated on global affairs.
+- ✨ 🎌 Anime: Enjoy immersive animated worlds.
+- ✨ 📚 Manga & Manhwa: Dive into illustrated stories.
+- ✨ 🖋️ Shayari: Craft poetic verses with heart and soul.
+- ✨ 🏅 Sports: 🏏Cricket, ⚽Football, 🏸Badminton, and 🏊Swimming.
 
 </br>
 </br>
