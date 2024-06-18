@@ -36,19 +36,19 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p align="center">
-  <img src="./assets/icons/python.png" alt="python" height="20" width="20">
-  <img src="./assets/icons/html.png" alt="html" height="20" width="20">
-  <img src="./assets/icons/css.png" alt="css" height="20" width="20">
-  <img src="./assets/icons/js.png" alt="js" height="20" width="20">
+  <img src="./assets/icons/python.png" alt="python" height="100" width="100">
+  <img src="./assets/icons/html.png" alt="html" height="100" width="100">
+  <img src="./assets/icons/css.png" alt="css" height="100" width="100">
+  <img src="./assets/icons/js.png" alt="js" height="100" width="100">
   </br>
-  <img src="./assets/icons/npm.png" alt="npm" height="20" width="20">
-  <img src="./assets/icons/react.png" alt="react" height="20" width="20">
-  <img src="./assets/icons/sass.png" alt="sass" height="20" width="20">
+  <img src="./assets/icons/npm.png" alt="npm" height="100" width="100">
+  <img src="./assets/icons/react.png" alt="react" height="100" width="100">
+  <img src="./assets/icons/sass.png" alt="sass" height="100" width="100">
   </br>
-  <img src="./assets/icons/vsc.png" alt="vsc" height="20" width="20">
-  <img src="./assets/icons/tailwind.png" alt="tailwind" height="20" width="20">
+  <img src="./assets/icons/vsc.png" alt="vsc" height="100" width="100">
+  <img src="./assets/icons/tailwind.png" alt="tailwind" height="100" width="100">
   </br>
-  <img src="./assets/icons/codewars.png" alt="codewars" height="20" width="20">
+  <img src="./assets/icons/codewars.png" alt="codewars" height="100" width="100">
 </p>
 </br>
 </br>
@@ -67,22 +67,22 @@
   If you want to reach out to me about anything, be it some doubt or just to hangout and talk, just ping me 😉.
 
   <a href="mailto:shashanksharma03.07@gmail.com@gmail.com">
-    <img align="left" alt="gmail" src="./assets/icons/gmail.png" />
+    <img align="left" alt="gmail" src="./assets/icons/gmail.png" height="100" width="100" />
   </a>
 
   <a href="https://www.linkedin.com/in/shashank-sharma-733ba126b/">
-    <img align="left" alt="linkedin" src="./assets/icons/linkedin.png" />
+    <img align="left" alt="linkedin" src="./assets/icons/linkedin.png" height="100" width="100" />
     </br>
     </br>
     </br>
   </a>
 
   <a href="https://www.reddit.com/user/Cool-Adhesiveness-07/">
-    <img align="left" alt="reddit" src="./assets/icons/reddit.png" />
+    <img align="left" alt="reddit" src="./assets/icons/reddit.png" height="100" width="100" />
   </a>
 
   <a href="https://www.instagram.com/sha_nky07/">
-    <img align="left" alt="instagram" src="./assets/icons/instagram.png" />
+    <img align="left" alt="instagram" src="./assets/icons/instagram.png" height="100" width="100" />
   </a>
 </p>
  
