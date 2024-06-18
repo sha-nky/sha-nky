@@ -1,7 +1,7 @@
 # Konnichiwa !!! 👋
 
 <div align="center">
-<img height="300" width="600" alt="GIF" align="center" src="./assets/hello.gif">
+<img height="300" width="500" alt="GIF" align="center" src="./assets/hello.gif">
 </div>
 
 </br>
