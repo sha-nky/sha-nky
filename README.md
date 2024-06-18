@@ -1,4 +1,4 @@
-# Konnichiwa !!! 👋 Watashi wa SHASHANK desu 😁
+# Konnichiwa !!! 👋 Shashank desu 😁
 
 <div align="center">
   <img height="350px" width="500px" alt="GIF" align="center" src="./assets/hello.gif">
