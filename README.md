@@ -65,7 +65,7 @@
 
 <p align="left">
   </br>
-  <img height="150px" width="330px" align="right" alt="GIF" src="./assets/fbi-kana.gif">
+  <img height="200px" width="330px" align="right" alt="GIF" src="./assets/fbi-kana.gif">
 
   If you want to reach out to me about anything, be it some doubt or just to hangout and talk, just ping me 😉.
   
