@@ -66,7 +66,7 @@
 <div>
   <div style="float: left; width: 50%;">
     <div align="left">
-      <p>
+      <p width="50%">
         If you'd like to get in touch with me for any reason—whether it's to ask a question, discuss something, or just hang out and chat—feel free to reach out! 😊
       </p>
       <a href="mailto:shashanksharma03.07@gmail.com">
