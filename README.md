@@ -1,4 +1,4 @@
-# Konnichiwa !!! 👋
+# Konnichiwa !!! 👋 Watashi wa SHASHANK desu :)
 
 <div align="center">
   <img height="350px" width="500px" alt="GIF" align="center" src="./assets/hello.gif">
@@ -66,11 +66,11 @@
   If you want to reach out to me about anything, be it some doubt or just to hangout and talk, just ping me 😉.
 
   <a href="mailto:shashanksharma03.07@gmail.com@gmail.com">
-    <img align="left" alt="gmail" src="./assets/icons/gmail.png" height="80" width="80" />
+    <img align="left" alt="gmail" src="./assets/icons/gmail.png" height="85" width="80" />
   </a>
 
   <a href="https://www.linkedin.com/in/shashank-sharma-733ba126b/">
-    <img align="left" alt="linkedin" src="./assets/icons/linkedin.png" height="80" width="80" />
+    <img align="left" alt="linkedin" src="./assets/icons/linkedin.png" height="75" width="80" />
     </br>
     </br>
     </br>
