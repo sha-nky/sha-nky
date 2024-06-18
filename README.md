@@ -51,8 +51,8 @@
   <img src="./assets/icons/git.png" alt="git" height="100" width="100">
   <img src="./assets/icons/github.png" alt="github" height="100" width="100">
   </br>
-  <img src="./assets/icons/vsc.png" alt="vsc" height="100" width="100">
   <img src="./assets/icons/framer-motion.png" alt="vsc" height="100" width="100">
+  <img src="./assets/icons/vsc.png" alt="vsc" height="100" width="100">
   <img src="./assets/icons/codewars.png" alt="codewars" height="100" width="100">
 </p>
 </br>
