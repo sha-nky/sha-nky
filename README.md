@@ -13,7 +13,7 @@
 
 ### - I'm a 20 years old engineering student from India.
 
-<img height="250px" width="450px" alt="GIF" align="right" src="./assets/senku-dr-stone.gif">
+<img height="230px" width="400px" alt="GIF" align="right" src="./assets/senku-dr-stone.gif">
 
 ### - Learning :
 - ✨ Full stack development
