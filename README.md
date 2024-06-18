@@ -1,43 +1,105 @@
-<h2 align="left">Hi 👋! My name is SHASHANK SHARMA and I'm an aspiring techie, from India</h2>
-
-###
+# Konnichiwa !!! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sha-nky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sha-nky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img height="300" width="700" alt="GIF" align="center" src="./assets/208593.gif">
 </div>
 
-###
+</br>
+</br>
+</br>
 
-<img align="right" height="150" src="hello-hi.gif" alt="gif" />
 
-###
+# About ME 💬 :
 
-<div align="left">
-  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/96/javascript_icon_130900.png" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_tailwind_icon_130128.png" height="30" alt="tailwind css" />
-  <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/react_original_logo_icon_146374.png" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/html_original_wordmark_logo_icon_146478.png" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/css_original_wordmark_logo_icon_146576.png" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/112/PNG/96/python_18894.png" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/96/c_original_logo_icon_146611.png" height="30" alt="c logo" />
-</div>
+### - I'm a 20 years aspiring web developer from India.
 
-###
+<img hight="400" width="500" alt="GIF" align="right" src="./assets/1936.gif">
 
-<div align="left">
-  <!-- <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> -->
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <!-- <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /> -->
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
 
-###
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
+
+</br>
+</br>
+</br>
+
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="./assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="./assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="./assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="./assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="./assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="./assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="./assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="./assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="./assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="./assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+</p>
+</br>
+</br>
+</br>
+
+
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="./assets/93195.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="./assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="./assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://www.reddit.com/user/X_Ashutosh_X">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="./assets/icons/reddit.png" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561198182224539/">
+  <img align="left" alt="Steam" width="130" hight="100" src="./assets/icons/steam.png" />
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sha-nky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" />
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=sha-nky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
+  </a>
+</p>
+
+*************
