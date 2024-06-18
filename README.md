@@ -65,10 +65,11 @@
 
 <p align="left">
   </br>
-  <img height="200px" width="330px" align="right" alt="GIF" src="./assets/fbi-kana.gif">
+  <img height="200px" width="350px" align="right" alt="GIF" src="./assets/fbi-kana.gif">
 
   If you want to reach out to me about anything, be it some doubt or just to hangout and talk, just ping me 😉.
   
+  </br>
   <a href="mailto:shashanksharma03.07@gmail.com@gmail.com">
     <img align="left" alt="gmail" src="./assets/icons/gmail.png" height="90" width="80" />
   </a>
