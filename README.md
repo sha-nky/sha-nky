@@ -67,18 +67,18 @@
   If you want to reach out to me about anything, be it some doubt or just to hangout and talk, just ping me 😉.
 
   <a href="mailto:shashanksharma03.07@gmail.com@gmail.com">
-    <img align="left" alt="Gmail" width="130" hight="100" src="./assets/icons/gmail.png" />
+    <img align="left" alt="Gmail" width="130" hight="100" src="./assets/icons/gmail.svg" />
   </a>
 
   <a href="https://www.linkedin.com/in/shashank-sharma-733ba126b/">
-    <img align="left" alt="Linkedin" width="150" hight="100" src="./assets/icons/linkedin.png" />
+    <img align="left" alt="Linkedin" width="150" hight="100" src="./assets/icons/linkedin.svg" />
     </br>
     </br>
     </br>
   </a>
 
   <a href="https://www.reddit.com/user/Cool-Adhesiveness-07/">
-    <img align="left" alt=" Reddit" width="130" hight="100" src="./assets/icons/reddit.png" />
+    <img align="left" alt=" Reddit" width="130" hight="100" src="./assets/icons/reddit.svg" />
   </a>
 
   <a href="https://www.instagram.com/sha_nky07/">
