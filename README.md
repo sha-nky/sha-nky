@@ -1,7 +1,7 @@
 # Konnichiwa !!! 👋
 
 <div align="center">
-  <img height="300px" width="500px" alt="GIF" align="center" src="./assets/hello.gif">
+  <img height="350px" width="500px" alt="GIF" align="center" src="./assets/hello.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - I'm a 20 years old aspiring web developer from India.
 
-<img height="200px" width="400px" alt="GIF" align="right" src="./assets/senku-dr-stone.gif">
+<img height="250px" width="400px" alt="GIF" align="right" src="./assets/senku-dr-stone.gif">
 
 ### - Learning :
 - ✨ Full stack development
@@ -36,19 +36,19 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p align="center">
-  <img src="./assets/icons/python.svg" alt="python" width="120px" height="50px">
-  <img src="./assets/icons/html.svg" alt="html"  width="120px" height="45px">
-  <img src="./assets/icons/css3.svg" alt="css3" width="120px" height="45px">
-  <img src="./assets/icons/js.svg" alt="JS" width="120px" height="60px">
+  <img src="./assets/icons/python.png" alt="python">
+  <img src="./assets/icons/html.png" alt="html" >
+  <img src="./assets/icons/css.png" alt="css3">
+  <img src="./assets/icons/js.png" alt="JS">
   </br>
-  <img src="./assets/icons/npm.svg" alt="npm" width="280px" height="50px">
-  <img src="./assets/icons/react.svg" alt="react" width="280px" height="40px">
-  <img src="./assets/icons/sass.svg" alt="sass" width="280px" height="40px">
+  <img src="./assets/icons/npm.png" alt="npm">
+  <img src="./assets/icons/react.png" alt="react">
+  <img src="./assets/icons/sass.png" alt="sass">
   </br>
-  <img src="./assets/icons/visualstudio_code.svg" alt="vsc" width="130px" height="90px">
-  <img src="./assets/icons/web.svg" alt="web" width="100px" height="50px">
+  <img src="./assets/icons/vsc.png" alt="vsc">
+  <img src="./assets/icons/tailwind.png" alt="web">
   </br>
-  <img src="./assets/icons/codewars.svg" alt="codewars" width="150px" height="50px">
+  <img src="./assets/icons/codewars.png" alt="codewars">
 </p>
 </br>
 </br>
@@ -67,22 +67,22 @@
   If you want to reach out to me about anything, be it some doubt or just to hangout and talk, just ping me 😉.
 
   <a href="mailto:shashanksharma03.07@gmail.com@gmail.com">
-    <img align="left" alt="Gmail" width="130px" height="100px" src="./assets/icons/gmail.svg" />
+    <img align="left" alt="gmail" src="./assets/icons/gmail.png" />
   </a>
 
   <a href="https://www.linkedin.com/in/shashank-sharma-733ba126b/">
-    <img align="left" alt="Linkedin" width="150px" height="100px" src="./assets/icons/linkedin.svg" />
+    <img align="left" alt="linkedin" src="./assets/icons/linkedin.png" />
     </br>
     </br>
     </br>
   </a>
 
   <a href="https://www.reddit.com/user/Cool-Adhesiveness-07/">
-    <img align="left" alt=" Reddit" width="130px" height="100px" src="./assets/icons/reddit.svg" />
+    <img align="left" alt="reddit" src="./assets/icons/reddit.png" />
   </a>
 
   <a href="https://www.instagram.com/sha_nky07/">
-    <img align="left" alt="instagram" width="140px" height="105px" src="./assets/icons/instagram.svg" />
+    <img align="left" alt="instagram" src="./assets/icons/instagram.png" />
   </a>
 </p>
  
