@@ -65,7 +65,7 @@
 
 <div>
   <div style="float: left; width: 50%;">
-    <p align="left">
+    <p align="left" style="float: left; width: 50%;">
       If you'd like to get in touch with me for any reason—whether it's to ask a question, discuss something, or just hang out and chat—feel free to reach out! 😊
     </p>
     <div align="left">
