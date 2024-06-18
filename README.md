@@ -36,24 +36,34 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p align="center">
-  <img src="./assets/icons/python.png" alt="python" height="100" width="100">
-  <img src="./assets/icons/c.png" alt="c" height="100" width="100">
-  <img src="./assets/icons/cpp.png" alt="cpp" height="100" width="100">
-  <br>
-  <img src="./assets/icons/html.png" alt="html" height="100" width="100">
-  <img src="./assets/icons/css.png" alt="css" height="100" width="100">
-  <img src="./assets/icons/js.png" alt="js" height="100" width="100">
-  </br>
-  <img src="./assets/icons/react.png" alt="react" height="100" width="100">
-  <img src="./assets/icons/tailwind.png" alt="tailwind" height="100" width="100">
-  <img src="./assets/icons/sass.png" alt="sass" height="100" width="100">
-  </br>
-  <img src="./assets/icons/npm.png" alt="npm" height="100" width="100">
-  <img src="./assets/icons/git.png" alt="git" height="100" width="100">
-  <img src="./assets/icons/github.png" alt="github" height="100" width="100">
-  </br>
-  <img src="./assets/icons/vsc.png" alt="vsc" height="100" width="100">
-  <img src="./assets/icons/codewars.png" alt="codewars" height="100" width="100">
+  <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+    <img src="./assets/icons/python.png" alt="python" height="100" width="100">
+    <img src="./assets/icons/c.png" alt="c" height="100" width="100">
+    <img src="./assets/icons/cpp.png" alt="cpp" height="100" width="100">
+  </div>
+  
+  <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+    <img src="./assets/icons/html.png" alt="html" height="100" width="100">
+    <img src="./assets/icons/css.png" alt="css" height="100" width="100">
+    <img src="./assets/icons/js.png" alt="js" height="100" width="100">
+  </div>
+  
+  <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+    <img src="./assets/icons/react.png" alt="react" height="100" width="100">
+    <img src="./assets/icons/tailwind.png" alt="tailwind" height="100" width="100">
+    <img src="./assets/icons/sass.png" alt="sass" height="100" width="100">
+  </div>
+  
+  <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+    <img src="./assets/icons/npm.png" alt="npm" height="100" width="100">
+    <img src="./assets/icons/git.png" alt="git" height="100" width="100">
+    <img src="./assets/icons/github.png" alt="github" height="100" width="100">
+  </div>
+  
+  <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+    <img src="./assets/icons/vsc.png" alt="vsc" height="100" width="100">
+    <img src="./assets/icons/codewars.png" alt="codewars" height="100" width="100">
+  </div>
 </p>
 </br>
 </br>
