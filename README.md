@@ -1,7 +1,7 @@
 # Konnichiwa !!! 👋
 
 <div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="./assets/hello.gif">
+<img height="300" width="600" alt="GIF" align="center" src="./assets/hello.gif">
 </div>
 
 </br>
@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm a 20 years aspiring web developer from India.
+### - I'm a 20 years old aspiring web developer from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="./assets/1936.gif">
 
