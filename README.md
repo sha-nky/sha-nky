@@ -65,10 +65,10 @@
 
 <div>
   <div style="float: left; width: 50%;">
-    <p align="left" style="float: left; width: 50%;">
-      If you'd like to get in touch with me for any reason—whether it's to ask a question, discuss something, or just hang out and chat—feel free to reach out! 😊
-    </p>
     <div align="left">
+      <p>
+        If you'd like to get in touch with me for any reason—whether it's to ask a question, discuss something, or just hang out and chat—feel free to reach out! 😊
+      </p>
       <a href="mailto:shashanksharma03.07@gmail.com">
         <img align="left" alt="gmail" src="./assets/icons/gmail.png" height="85" width="80" />
       </a>
