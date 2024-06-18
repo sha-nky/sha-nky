@@ -38,15 +38,16 @@
 <p align="center">
   <img src="./assets/icons/python.svg" alt="python" width="120" height="50">
   <img src="./assets/icons/html.svg" alt="html"  width="120" height="45">
-  <img src="./assets/icons/css3.svg" alt="css3" width="120" height="55">
+  <img src="./assets/icons/css3.svg" alt="css3" width="120" height="45">
   <img src="./assets/icons/js.svg" alt="JS" width="120" height="60">
-  <img src="./assets/icons/npm.svg" alt="npm" width="120" height="30">
   </br>
+  <img src="./assets/icons/npm.svg" alt="npm" width="280" height="50">
   <img src="./assets/icons/react.svg" alt="react" width="280" height="40">
   <img src="./assets/icons/sass.svg" alt="sass" width="280" height="40">
   </br>
-  <img src="./assets/icons/visualstudio_code.svg" alt="vsc" width="130" height="70">
+  <img src="./assets/icons/visualstudio_code.svg" alt="vsc" width="130" height="90">
   <img src="./assets/icons/web.svg" alt="web" width="100" height="50">
+  </br>
   <img src="./assets/icons/codewars.svg" alt="codewars" width="150" height="50">
 </p>
 </br>
@@ -62,7 +63,6 @@
 
 
   <img height="250" width="450" align="right" alt="GIF" src="./assets/fbi-kana.gif">
-
 
   If you want to reach out to me about anything, be it some doubt or just to hangout and talk, just ping me 😉.
 
@@ -82,7 +82,7 @@
   </a>
 
   <a href="https://www.instagram.com/sha_nky07/">
-    <img align="left" alt="instagram" width="130" height="100" src="./assets/icons/instagram.svg" />
+    <img align="left" alt="instagram" width="140" height="105" src="./assets/icons/instagram.svg" />
   </a>
 </p>
  
