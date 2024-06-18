@@ -13,7 +13,7 @@
 
 ### - I'm a 20 years old engineering student from India.
 
-<img height="230px" width="400px" alt="GIF" align="right" src="./assets/senku-dr-stone.gif">
+<img height="230px" width="400px" alt="GIF" align="right" src="./assets/pikachu-pokemon.gif">
 
 ### - Learning :
 - ✨ Full stack development
@@ -66,7 +66,7 @@
 <p>
  </br>
 
-  <img height="250px" width="450px" align="right" alt="GIF" src="./assets/fbi-kana.gif">
+  <img height="250px" width="430px" align="right" alt="GIF" src="./assets/fbi-kana.gif">
 
   If you want to reach out to me about anything, be it some doubt or just to hangout and talk, just ping me 😉.
 
