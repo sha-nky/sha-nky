@@ -74,9 +74,6 @@
   </a>
   <a href="https://www.linkedin.com/in/shashank-sharma-733ba126b/">
     <img align="left" alt="linkedin" src="./assets/icons/linkedin.png" height="75" width="80" />
-    </br>
-    </br>
-    </br>
   </a>
   <br>
   <a href="https://www.reddit.com/user/Cool-Adhesiveness-07/">
