@@ -55,7 +55,7 @@
   </br>
   <img src="./assets/icons/framer-motion.png" alt="vsc" height="100" width="100">
   <img src="./assets/icons/codewars.png" alt="codewars" height="90" width="100">
-  <img src="./assets/icons/vsc.png" alt="vsc" height="100" width="100">
+  <img src="./assets/icons/vsc.png" alt="vsc" height="100" width="100" border="20px">
 </p>
 </br>
 </br>
