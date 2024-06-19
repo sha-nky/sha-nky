@@ -53,7 +53,7 @@
   </br>
   <img src="./assets/icons/framer-motion.png" alt="vsc" height="100" width="100">
   <img src="./assets/icons/vsc.png" alt="vsc" height="100" width="100">
-  <img src="./assets/icons/codewars.png" alt="codewars" height="80" width="90">
+  <img src="./assets/icons/codewars.png" alt="codewars" height="90" width="90">
 </p>
 </br>
 </br>
