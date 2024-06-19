@@ -44,12 +44,14 @@
   <img src="./assets/icons/css.png" alt="css" height="100" width="100">
   <img src="./assets/icons/js.png" alt="js" height="100" width="100">
   </br>
+  </br>
   <img src="./assets/icons/react.png" alt="react" height="100" width="100">
   <img src="./assets/icons/tailwind.png" alt="tailwind" height="100" width="100">
   <img src="./assets/icons/sass.png" alt="sass" height="100" width="100">
   <img src="./assets/icons/npm.png" alt="npm" height="100" width="100">
   <img src="./assets/icons/git.png" alt="git" height="100" width="100">
   <img src="./assets/icons/github.png" alt="github" height="100" width="100">
+  </br>
   </br>
   <img src="./assets/icons/framer-motion.png" alt="vsc" height="100" width="100">
   <img src="./assets/icons/vsc.png" alt="vsc" height="100" width="100">
