@@ -53,7 +53,7 @@
   <img src="./assets/icons/github.png" alt="github" height="100" width="100">
   </br>
   </br>
-  <img src="./assets/icons/framer-motion.png" alt="vsc" height="100" width="110">
+  <img src="./assets/icons/framer-motion.png" alt="vsc" height="100" width="105">
   <img src="./assets/icons/sanity.png" alt="vsc" height="100" width="100">
   <img src="./assets/icons/vsc.png" alt="vsc" height="100" width="100">
   <img src="./assets/icons/codewars.svg" alt="codewars" height="95" width="95">
