@@ -103,8 +103,6 @@
 
 </br>
 </br>
-</br>
-</br>
 
 <p align="center">
   <img src="./assets/gojo-bye-bye.gif" alt="Bye Bye" height="250px" width="400px" />
