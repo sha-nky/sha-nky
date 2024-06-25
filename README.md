@@ -31,11 +31,9 @@
 </br>
 
 
-
 # Languages & Tools 👨‍💻 🛠:
 </br>
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p align="left">
   <img src="./assets/icons/python.png" alt="python" height="100" width="100">
   <img src="./assets/icons/c.png" alt="c" height="100" width="100">
@@ -54,7 +52,7 @@
   </br>
   </br>
   <img src="./assets/icons/framer-motion.png" alt="vsc" height="100" width="105">
-  <img src="./assets/icons/date-fns.jpeg" alt="vsc" height="100" width="100">
+  <img src="./assets/icons/date-fns.jpg" alt="vsc" height="100" width="100">
   <img src="./assets/icons/sanity.png" alt="vsc" height="100" width="100">
   <img src="./assets/icons/vsc.png" alt="vsc" height="100" width="100">
   <img src="./assets/icons/codewars.svg" alt="codewars" height="95" width="95">
@@ -62,7 +60,6 @@
 </br>
 </br>
 </br>
-
 
 
 # Contact Me
@@ -102,6 +99,15 @@
   </a>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sha-nky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200px" width="400px" />
+</p>
+
+</br>
+</br>
+</br>
+</br>
+
+<p align="center">
+  <img src="./assets/gojo-bye-bye.gif" alt="Bye Bye" height="350px" width="500px" />
 </p>
 
 *************
