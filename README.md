@@ -11,12 +11,12 @@
 
 # About ME 💬 :
 
-### - I'm a 20 years old engineering student from India.
+### - I'm a 21 years old software development student from India.
 
 <img height="230px" width="400px" alt="GIF" align="right" src="./assets/pikachu-pokemon.gif">
 
 ### - Learning :
-- ✨ Full stack development
+- ✨ DevOps
 - ✨ Data structure and algorithms
 
 ### - Hobbies : 
