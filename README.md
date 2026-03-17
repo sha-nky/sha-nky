@@ -93,16 +93,31 @@
 </br>
 </br>
 
-<p align="center" >
+<!-- <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api?username=sha-nky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200px" width="420px" />
-  </a>
+  </a> -->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sha-nky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200px" width="400px" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sha-nky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200px" width="400px" />
+</p> -->
+
+# GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sha-nky&show_icons=true&count_private=true&theme=dracula" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sha-nky&layout=compact&theme=dracula&langs_count=8" height="165"/>
 </p>
 
+---
+# Coding Activity
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shashank_sharma_04?theme=dark&font=Baloo%202&ext=heatmap)
+---
+
 </br>
 </br>
+
+# Sayonaraaa !!!:
 
 <p align="center">
   <!-- <img src="./assets/gojo-bye-bye.gif" alt="Bye Bye" height="250px" width="400px" /> -->
