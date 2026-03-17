@@ -108,16 +108,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sha-nky&layout=compact&theme=dracula&langs_count=8" height="165"/>
 </p>
 
----
+</br>
+
 # Coding Activity
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Shashank_sharma_04?theme=dark&font=Baloo%202&ext=heatmap)
 ---
 
 </br>
-</br>
 
-# Sayonaraaa !!!:
+# Sayonaraaa !!! 🙋‍♂️:
+---
 
 <p align="center">
   <!-- <img src="./assets/gojo-bye-bye.gif" alt="Bye Bye" height="250px" width="400px" /> -->
